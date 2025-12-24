@@ -1,0 +1,11 @@
+{
+  "name": "project-kickstart",
+  "version": "1.0.0",
+  "description": "Quickly bootstrap a JavaScript project",
+  "bin": {
+    "project-kickstart": "./bin.js"
+  },
+  "keywords": ["cli", "scaffold", "starter"],
+  "author": "Abhra",
+  "license": "MIT"
+}
