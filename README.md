@@ -1,6 +1,6 @@
 
 
-# 🚀 Project Kickstart
+# 👾 Project Kickstart
 
 **Project Kickstart** is a powerful CLI tool that lets you bootstrap modern JavaScript projects — backend and frontend — with smart defaults, templates, and industry-ready tooling.
 
