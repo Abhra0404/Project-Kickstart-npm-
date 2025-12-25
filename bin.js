@@ -30,12 +30,11 @@ async function run() {
         type: "rawlist",
         name: "template",
         message: "Select template:",
-        pageSize: 4,
+        pageSize: 3,
         choices: [
           { name: "Node (Basic)", value: "Node" },
           { name: "Express (API server)", value: "Express" },
-          { name: "React (Vite React)", value: "React" },
-          { name: "Vite (Vanilla)", value: "Vite" }
+          { name: "Vite + React", value: "Vite" }
         ]
       },
       {
